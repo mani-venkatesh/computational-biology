@@ -1,6 +1,6 @@
 ### **Breast Cancer Drug Discovery Project using ChEMBL Databse**
 
-*This project was inspired by the YouTube channel of **[dataprofessor]**(https://www.youtube.com/dataprofessor)*
+*This project was inspired by the YouTube channel of [dataprofessor]https://www.youtube.com/dataprofessor)*
 
 Breast cancer is a heterogeneous and often aggressive malignancy that originates in the breast tissue. It is characterized by the uncontrolled growth of abnormal cells in the breast, which can invade surrounding tissues and potentially spread to other parts of the body. In computational drug discovery for breast cancer, particular attention is given to targeting the Epidermal Growth Factor Receptor (EGFR) protein family. This family plays a crucial role in regulating cell proliferation, survival, and differentiation, and aberrant activation of EGFR signaling is frequently implicated in breast cancer progression, making it a promising target for the development of novel therapeutic interventions. *For the purposes of this project, only EGFR-targetting compounds with an IC50 < 100 nM were considered as active compounds.*
 
