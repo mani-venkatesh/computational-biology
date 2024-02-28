@@ -1,7 +1,12 @@
 chembl_webresource_client
-pandas
-numpy
-scipy
-rdkit
-seaborn
 matplotlib
+numpy
+padelpy
+pandas
+rdkit
+scikit-learn
+scipy
+seaborn
+
+
+
